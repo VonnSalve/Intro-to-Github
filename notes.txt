@@ -1,1 +1,2 @@
 My first notes on Git. 
+Updated this file from my local clone. 
